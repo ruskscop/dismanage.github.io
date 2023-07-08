@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+  font-family: 'Roboto';font-size: 22px;
+}
+
+h1 {
+    text-align: center;
+    color :white;
+}
+
+p {
+    text-align: center;
+    color: white;
+}
+
+button {
+    align-self: center;
+}
